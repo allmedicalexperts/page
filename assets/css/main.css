@@ -4110,12 +4110,3 @@ input, select, textarea {
   }
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-}
-.center {
-  width: 800px;
-}
-
-
