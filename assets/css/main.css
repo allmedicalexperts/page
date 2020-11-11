@@ -3979,16 +3979,11 @@ input, select, textarea {
 .snip1214 {
   font-family: 'Raleway', Arial, sans-serif;
   color: #000000;
-  position: absolute;
-  width: 300px;
-  height: 200px;
-  z-index: 15;
-  top: 50%;
-  left: 50%;
-  margin: -100px 0 0 -150px;
   text-align: center;
   font-size: 16px;
+  width: 100%;
   max-width: 1000px;
+  margin: 40px 10px;
 }
 .snip1214 .plan {
   margin: 0;
