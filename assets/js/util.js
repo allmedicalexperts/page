@@ -491,7 +491,7 @@
 
 								case 'checkbox':
 								case 'radio':
-									i.attr('checked', i.attr('defaultValue'));
+									i.attr('unchecked', i.attr('defaultValue'));
 									break;
 
 								case 'text':
