@@ -3951,15 +3951,14 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-/* Whatsapp */
+/* Telegram */
 .float{
 	position:fixed;
 	width:60px;
 	height:60px;
 	bottom:40px;
 	right:40px;
-	background: url('https://api.iconify.design/fa-telegram.svg') no-repeat center center / contain;
-	color:#FFF;
+	background: url('https://api.iconify.design/fa-telegram.svg?color=%230088cc') no-repeat center center / contain;
 	border-radius:50px;
 	text-align:center;
   font-size:30px;
