@@ -3958,7 +3958,7 @@ input, select, textarea {
 	height:60px;
 	bottom:40px;
 	right:40px;
-	background:#0088cc;
+	background: url('https://api.iconify.design/fa-telegram.svg') no-repeat center center / contain;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
